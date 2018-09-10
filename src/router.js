@@ -14,6 +14,14 @@ export default new Router({
       component: Home,
     },
     {
+      path: '/multi-story',
+      name: 'MultiStory',
+      // route level code-splitting
+      // this generates a separate chunk (about.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import(/* webpackChunkName: "about" */ './views/MultiStory.vue'),
+    },
+    {
       path: '/qanda',
       name: 'QandA',
       // route level code-splitting
