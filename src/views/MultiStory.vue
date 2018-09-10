@@ -15,7 +15,7 @@
     <section class="section is-paddingless">
       <div class="container content">
         <h4>
-          City council has come up with 2 alternatives given below:
+          The Fremont City Council has come up with 2 alternatives given below:
         </h4>
         <ul>
           <li>
