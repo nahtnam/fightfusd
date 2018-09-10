@@ -75,6 +75,9 @@
                 Body:
               </strong>
               <br>
+              Dear Council Members,
+              <br>
+              <br>
               I am a long-term resident of Fremont, and I see that the board is planning on restricting second story construction. Every new residential complex is multi-story because most people prefer having more than one floor. If people preferred single story homes, the builders would not be able to sell these multi-story ones. City council members who are elected by the people are trying to go against the needs of the majority of the people by favoring a few residents who are trying to bring up this restriction.
               <br>
               <br>
