@@ -31,6 +31,7 @@
         <ol>
           <li>Send an Email <strong>TODAY (NOT TOMORROW)</strong> Sample email template below.</li>
           <li>Attend the City Council Meeting on <strong>September 11, 2018 at 7:00 PM</strong></li>
+          <li>If you would like to know more about the issue, please read the <a href="http://fremontcityca.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=1620&MediaPosition=&ID=3549&CssClass=" target="_blank">full proposal</a>.</li>
         </ol>
         <hr>
         <div class="columns">
