@@ -48,9 +48,9 @@
               Full Proposal
             </a>
             <br>
-            <a class="button is-fullwidth is-primary" href="https://patch.com/california/fremont/fremont-considers-moratorium-home-expansions" target="_blank">
+            <!-- <a class="button is-fullwidth is-primary" href="https://patch.com/california/fremont/fremont-considers-moratorium-home-expansions" target="_blank">
               Article Outlining Proposal
-            </a>
+            </a> -->
           </div>
           <div class="column">
             <h3 class="title is-marginless" style="padding-bottom: 5px;">Email Template (change as you wish)</h3>

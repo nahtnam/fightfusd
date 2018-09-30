@@ -17,7 +17,7 @@
         <div class="navbar-end">
           <!-- <router-link to="/" class="navbar-item" active-class="is-active" @click.native="closeMenu" exact>Home</router-link> -->
           <router-link to="/" class="navbar-item" active-class="is-active" @click.native="closeMenu" exact>Second Story Restriction</router-link>
-          <router-link to="/qanda" class="navbar-item" active-class="is-active" @click.native="closeMenu">Q and A</router-link>
+          <!-- <router-link to="/qanda" class="navbar-item" active-class="is-active" @click.native="closeMenu">Q and A</router-link> -->
           <router-link to="/contact" class="navbar-item" active-class="is-active" @click.native="closeMenu">Contact</router-link>
         </div>
       </div>
