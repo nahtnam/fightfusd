@@ -3,11 +3,14 @@
   "alias": "www.fightfusd.org",
   "type": "static",
   "static": {
-    "rewrites": [
-      { "source": "/",
+    "redirects": [
+      {
+        "source": "/",
         "destination": "/multi-story",
         "type": 302
-      },
+      }
+    ],
+    "rewrites": [
       {
         "source": "**",
         "destination": "/index.html"
