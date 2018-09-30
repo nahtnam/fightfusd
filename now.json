@@ -4,6 +4,10 @@
   "type": "static",
   "static": {
     "rewrites": [
+      { "source": "/",
+        "destination": "/multi-story",
+        "type": 302
+      },
       {
         "source": "**",
         "destination": "/index.html"
